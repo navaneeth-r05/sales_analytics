@@ -45,6 +45,9 @@ Revenue is calculated as `quantity * unit_price * (1 - discount_pct / 100)` and 
 Database design, constraints, joins, subqueries, CTEs, window functions (RANK, LAG), views, data validation.
 
 
+## ----------------------------------
+Here The result_grid for
+
 ### Sales by employee, department and month
 ![Sales by employee and month](images/sales_by_employee_month.png)
 
