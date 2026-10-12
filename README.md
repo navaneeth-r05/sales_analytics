@@ -43,3 +43,16 @@ Revenue is calculated as `quantity * unit_price * (1 - discount_pct / 100)` and 
 
 ## Skills demonstrated
 Database design, constraints, joins, subqueries, CTEs, window functions (RANK, LAG), views, data validation.
+
+
+### Sales by employee, department and month
+![Sales by employee and month](images/sales_by_employee_month.png)
+
+### Top performing employees
+![Top employee ranking](images/top_employee_ranking.png)
+
+### Month-over-month sales growth
+![Monthly sales growth](images/sales_growth.png)
+
+### Target vs actual
+![Target vs actual](images/target_vs_actual.png)
